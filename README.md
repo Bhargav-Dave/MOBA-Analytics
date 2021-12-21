@@ -34,5 +34,5 @@ So our website could provide a new direction in the field of competitive gaming,
 4. Go to github and create pull request on your branch to master branch.
 
 
-## [Demo of the project](https://youtu.be/9QHYzz0SQzY)
+
 
