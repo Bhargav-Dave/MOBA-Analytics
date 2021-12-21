@@ -34,6 +34,12 @@ So our website could provide a new direction in the field of competitive gaming,
 2. to shift from one branch to another - git cheackout <branch-name>
 3. After completing create PR on that branch - git push origin <branch-name>
 4. Go to github and create pull request on your branch to master branch.
+  
+## API key Updation
+
+1. Please let the Admins know about API key problems. The API key in the code needs to be updated frequently and if you are running the code and it is not fetching data then the key has not been updated in a while
+
+
 
 
 
